@@ -12,8 +12,8 @@
 
     "repository": "https://github.com/Ns-AnoNymouS/Renamer",
     "stack": "heroku-20",
-    "website": "https://t.me/Ns_bot_updates",
-    "success_url": "https://t.me/RenamerNs_bot",
+    "website": "https://t.me/redx_414_news",
+    "success_url": "https://t.me/rename_x_n1_bot",
 
     "env": {
         "API_HASH": {
@@ -46,7 +46,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Telegram user id, Get this from @FileStore_Nsbot."
+            "description": "Your Telegram user id, Get this from @googleimgbot."
         },
         "ENV": {
             "description": "Set it to anything to enable configuration by environment variables.",
