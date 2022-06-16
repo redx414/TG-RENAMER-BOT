@@ -10,7 +10,7 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Ns-AnoNymouS/Renamer",
+    "repository": "https://github.com/redx414/TG-RENAMER-BOT",
     "stack": "heroku-20",
     "website": "https://t.me/redx_414_news",
     "success_url": "https://t.me/rename_x_n1_bot",
