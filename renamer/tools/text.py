@@ -4,7 +4,7 @@ class TEXT:
     DOWNLOAD_START = f"Downloading Starts soon..."
     UPLOAD_START = f"Upload Starting Soon..."
     UPLOAD_SUCESS = f"Thanks for using me."
-    BANNED_USER_TEXT = f"Hey, you are **banned** from using me!"
+    BANNED_USER_TEXT = f"Hey, you are **BANNED** from using me!"
     NOT_LOGGED_TEXT = f"This bot was only for private use {LOCKED_WITH_KEY}. If you want to use this bot you need to send me correct password in the format `/login bot_password`"
     SAVED_CUSTOM_THUMBNAIL = f"Thumbnail Saved Permanently {NOTEBOOK_WITH_DECORATIVE_COVER}"
     DELETED_CUSTOM_THUMBNAIL = f"Thumbnail Deleted Successfully {CHECK_MARK_BUTTON}"
@@ -20,11 +20,9 @@ class TEXT:
 
 ** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-** Developer:** {bot_owner}
+** Developer:** Unknown
 
-** Channel:** [REDX News & Updates](https://t.me/redx_414_news)
-
-** Admin:** [RED X](https://t.me/RedX14)
+** Channel:** [Rediret Channel](https://t.me/redirect_414)
 
 ** Source Code:** [Press Me](https://github.com/redx414/TG-RENAMER-BOT)
 """
@@ -45,7 +43,7 @@ I am a telegram renamer with permanent thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉.
 
-**Maintained By:** {bot_owner}
+**Maintained By:** Unknown
 """
 
 
