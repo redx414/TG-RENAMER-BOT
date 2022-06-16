@@ -57,4 +57,4 @@ __--Payment Methods:--__
  
 TronLink Pro / Reload
  
-**For Donate:** message me @RedX14"""
+**For Donate:** go to @redirect_414"""
